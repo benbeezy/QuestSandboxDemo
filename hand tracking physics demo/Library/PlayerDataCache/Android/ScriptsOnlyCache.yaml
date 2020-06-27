@@ -2083,4 +2083,4 @@ ScriptsOnlyBuild:
   platform: 13
   scenePathNames:
   - Assets/hands.unity
-  playerPath: C:/Users/benen/Documents/GitHub/HandTrackingDemo/APK/test.apk
+  playerPath: C:/Users/benen/Documents/GitHub/Quest demo sandbox/QuestSandboxDemo/APK/128step.apk

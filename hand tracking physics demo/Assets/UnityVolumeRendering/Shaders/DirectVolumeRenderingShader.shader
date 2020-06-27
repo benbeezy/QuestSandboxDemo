@@ -2,6 +2,7 @@
 {
     Properties
     {
+		_Steps("Steps", int) = 512
         _DataTex ("Data Texture (Generated)", 3D) = "" {}
         _GradientTex("Gradient Texture (Generated)", 3D) = "" {}
         _NoiseTex("Noise Texture (Generated)", 2D) = "white" {}
